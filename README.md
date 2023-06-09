@@ -4,7 +4,7 @@
 
 * 🎂 Tenho 21 anos
 * 📊 Sou formanda em Estatística
-* 🤩 Sempre adorei a ideia de encontrar informações sobre situações através dos dados, no que quero me profissionalizar
+* 🤩 Sempre adorei a ideia de encontrar informações sobre situações através dos dados, e é nisso que quero me profissionalizar
 
 #
 
@@ -50,5 +50,5 @@
 
 ### &rarr; Para acessar minhas redes sociais, clique nos ícones abaixo:
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/la%C3%ADzamj/)
