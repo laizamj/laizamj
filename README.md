@@ -3,7 +3,7 @@
 ### &rarr; Um pouco **sobre mim**:
 
 * 🔭 Tenho 21 anos
-* 📊 Sou formada em Estatística
+* 📊 Sou formanda em Estatística
 
 
 #
