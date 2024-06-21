@@ -1,10 +1,11 @@
-# Oiee, eu sou a Laíza! 👋
+# Olá, eu me chamo Laíza! 👋
 
 ### &rarr; Um pouco **sobre mim**:
 
 * 🎂 Tenho 22 anos
 * 📊 Sou formada em Estatística e estou cursando minha primeira pós em Ciência de Dados, que é a área que quero seguir
 * 🤩 Sempre fui fascinada pela ideia de obter insights valiosos através dos dados, e é nisso que quero me profissionalizar cada vez mais
+* 📚 Estou constantemente me aprimorando e acredito na melhora contínua e constante
 
 #
 
@@ -16,7 +17,7 @@
 
 #
 
-### &rarr; Tecnologias que mais uso:
+### &rarr; Tecnologias que tenho conhecimento:
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -46,7 +47,8 @@
 #
 
 
-### &rarr; Para acessar minhas redes sociais, clique nos ícones abaixo:
+### &rarr; Para acessar minhas redes sociais, clique nos ícones:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laizamendesj@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/la%C3%ADzamj/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laizamendesj@gmail.com)
+
