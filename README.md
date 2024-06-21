@@ -2,9 +2,9 @@
 
 ### &rarr; Um pouco **sobre mim**:
 
-* 🎂 Tenho 21 anos
+* 🎂 Tenho 22 anos
 * 📊 Sou formada em Estatística
-* 🤩 Sempre adorei a ideia de encontrar informações sobre situações através dos dados, e é nisso que quero me profissionalizar
+* 🤩 Sempre fui fascinada pela ideia de obter insights valiosos através dos dados, e é nisso que quero me profissionalizar cada vez mais
 
 #
 
