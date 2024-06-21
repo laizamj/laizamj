@@ -3,7 +3,7 @@
 ### &rarr; Um pouco **sobre mim**:
 
 * 🎂 Tenho 22 anos
-* 📊 Sou formada em Estatística e estou cursando minha primeira pós em Ciência de Dados e Big Data, que é a área que quero seguir
+* 📊 Sou formada em **Estatística** e estou cursando minha primeira pós em **Ciência de Dados e Big Data**, que é a área que quero seguir
 * 🤩 Sempre fui fascinada pela ideia de obter insights valiosos através dos dados, e é nisso que quero me profissionalizar cada vez mais
 * 📚 Estou constantemente me aprimorando e acredito na melhora contínua e constante
 
